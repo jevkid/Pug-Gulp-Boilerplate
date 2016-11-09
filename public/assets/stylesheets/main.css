@@ -1,0 +1,148 @@
+/**  Variables **/
+/** Font Sizes **/
+/** Global Sizes **/
+/** Components **/
+.pull-left {
+  float: left !important;
+}
+.pull-right {
+  float: right !important;
+}
+.text-left {
+  text-align: left !important;
+}
+.text-right {
+  text-align: right !important;
+}
+.text-center {
+  text-align: center !important;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-italic {
+  font-style: italic;
+}
+.text-xs {
+  font-size: 12px;
+}
+.text-sm {
+  font-size: 14px;
+}
+.text-md {
+  font-size: 16px;
+}
+.text-lg {
+  font-size: 24px;
+}
+.mt-sm {
+  marign-top: 10px;
+}
+.mt-sm {
+  marign-top: 15px;
+}
+.mt-md {
+  margin-top: 20px;
+}
+.mt-lg {
+  margin-top: 30px;
+}
+.ml-xs {
+  marign-left: 10px;
+}
+.ml-sm {
+  marign-left: 15px;
+}
+.ml-md {
+  margin-left: 20px;
+}
+.ml-lg {
+  margin-left: 30px;
+}
+.mr-xs {
+  margin-right: 10px;
+}
+.mr-sm {
+  margin-right: 15px;
+}
+.mr-md {
+  margin-right: 20px;
+}
+.mr-lg {
+  margin-right: 30px;
+}
+.mb-xs {
+  margin-bottom: 10px;
+}
+.mb-sm {
+  margin-bottom: 15px;
+}
+.mb-md {
+  margin-bottom: 20px;
+}
+.mb-lg {
+  margin-bottom: 30px;
+}
+.pt-sm {
+  marign-top: 10px;
+}
+.pt-sm {
+  marign-top: 15px;
+}
+.pt-md {
+  padding-top: 20px;
+}
+.pt-lg {
+  padding-top: 30px;
+}
+.pl-xs {
+  marign-left: 10px;
+}
+.pl-sm {
+  marign-left: 15px;
+}
+.pl-md {
+  padding-left: 20px;
+}
+.pl-lg {
+  padding-left: 30px;
+}
+.pr-xs {
+  padding-right: 10px;
+}
+.pr-sm {
+  padding-right: 15px;
+}
+.pr-md {
+  padding-right: 20px;
+}
+.pr-lg {
+  padding-right: 30px;
+}
+.pb-xs {
+  padding-bottom: 10px;
+}
+.pb-sm {
+  padding-bottom: 15px;
+}
+.pb-md {
+  padding-bottom: 20px;
+}
+.pb-lg {
+  padding-bottom: 30px;
+}
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+/** Main CSS **/
+html body {
+  background-color: #E9E9E9 !important;
+}
+/**  Variables **/
+/** Font Sizes **/
+/** Global Sizes **/
